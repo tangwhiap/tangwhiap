@@ -1,20 +1,13 @@
 # 👋 Hi there, I'm Wenhan Tang (唐文瀚)
 
-🎓 Ph.D. Candidate in **Atmospheric Sciences** @ University of Illinois Urbana-Champaign  
-🔬 Research assistant in ☁️ **Aerosol–Cloud Physics**, ❄️ **Ice nucleation and growth**.
+🎓 Ph.D. student in **Atmospheric Sciences** @ University of Illinois Urbana-Champaign  
+🔬 Research assistant in **Aerosol–Cloud Physics**☁️,  **Ice nucleation and growth**❄️.
 
 ---
 
 ## 🚀 What I’m Working On
 
 - 🧊 **Aerosol–Cloud–Ice nucleation modeling** using **PartMC** with new modules for stochastic immersion freezing & ice growth  
----
-
-## 📚 What I’m Interested In Learning
-
-- 🧮 Physics-informed ML, causal inference, and high-resolution Earth system modeling  
-- 🔬 Unifying classical nucleation theory and stochastic particle-resolved models  
-
 ---
 
 ## 🧘 When I’m Not Coding...
