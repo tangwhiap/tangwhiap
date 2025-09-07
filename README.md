@@ -25,9 +25,3 @@ You’ll probably find me:
 - 📮 Email: [wenhant2@illinois.edu](mailto:wenhant2@illinois.edu)  
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=tf5CCXEAAAAJ&hl)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wenhan-tang-a88492252/) 
-- 📂 See pinned projects and recent repositories below ⬇️  
-
----
-
-_“Learn deeply. Model honestly. Share openly.”_
-
