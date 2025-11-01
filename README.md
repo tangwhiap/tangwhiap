@@ -2,7 +2,7 @@
 
 🎓 Ph.D. student in **Atmospheric Sciences** @ University of Illinois Urbana-Champaign  
 🔬 Research assistant in **Aerosol–Cloud Physics**☁️,  **Ice nucleation and growth**❄️  
-💡 A fan of **algorithm design and optimization**
+💡 A fan of **algorithm** design and optimization
 
 ---
 
@@ -17,7 +17,7 @@ You’ll probably find me:
 
 - 🎿 Skiing with my Ikon Pass at Winter Park or Copper ⛷️  
 - 🧭 Planning science travel to AGU / AMS
-- - 🧩 Playing with LeetCode hard problems for fun  
+- 🧩 Playing with LeetCode hard problems for fun  
 - ☕ Writing papers in cafes or crafting aesthetic plots in LaTeX  
 
 ---
