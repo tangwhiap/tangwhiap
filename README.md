@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Wenhan Tang (唐文瀚)
 
 🎓 Ph.D. student in **Atmospheric Sciences** @ University of Illinois Urbana-Champaign  
-🔬 Research assistant in **Aerosol–Cloud Physics**☁️,  **Ice nucleation and growth**❄️ 
+🔬 Research assistant in **Aerosol–Cloud Physics**☁️,  **Ice nucleation and growth**❄️  
 💡 A fan of **algorithm design and optimization**
 
 ---
