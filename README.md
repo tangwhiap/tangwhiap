@@ -17,7 +17,6 @@ You’ll probably find me:
 
 - 🎿 Skiing with my Ikon Pass at Winter Park or Copper ⛷️  
 - 🧭 Planning science travel to AGU / AMS
-- 🧩 Playing with LeetCode hard problems for fun  
 - ☕ Writing papers in cafes or crafting aesthetic plots in LaTeX  
 
 ---
