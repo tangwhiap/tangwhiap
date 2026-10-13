@@ -25,4 +25,11 @@ You’ll probably find me:
 
 - 📮 Email: [wenhant2@illinois.edu](mailto:wenhant2@illinois.edu)  
 - 🔬 [Google Scholar](https://scholar.google.com/citations?user=tf5CCXEAAAAJ&hl)
-- 💼 [LinkedIn](https://www.linkedin.com/in/wenhan-tang-a88492252/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/wenhan-tang-a88492252/)
+
+---
+
+## CV
+
+[View or download Wenhan Tang's CV (PDF)](https://raw.githubusercontent.com/tangwhiap/tangwhiap/main/cv/Wenhan_Tang_Resume_Intern.pdf)
+
