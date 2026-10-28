@@ -31,5 +31,6 @@ You’ll probably find me:
 
 ## CV
 
-[View or download Wenhan Tang's CV (PDF)](https://raw.githubusercontent.com/tangwhiap/tangwhiap/main/cv/Wenhan_Tang_Resume_Intern.pdf)
+- [Resume (PDF)](https://raw.githubusercontent.com/tangwhiap/tangwhiap/main/cv/Wenhan_Tang_Resume.pdf)
+- [Internship resume (PDF)](https://raw.githubusercontent.com/tangwhiap/tangwhiap/main/cv/Wenhan_Tang_Resume_Intern.pdf)
 
